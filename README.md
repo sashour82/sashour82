@@ -1,16 +1,26 @@
-## Hi there 👋
+# About Me
 
-<!--
-**sashour82/sashour82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+- **Bachelor's Degree in Computer Engineering**
+- **Master's in State Management and Good Governance**
+- **Advanced Diploma in Leadership and Entrepreneurship**
 
-Here are some ideas to get you started:
+## Professional Experience
+- **Software Engineer & Developer**
+- **Professional Project Manager (PMP)**
+- **CEO of Khan Younis Municipality**
+- **Data Analyst**
+- **Institutional Performance Development Specialist (EFQM Framework)**
+- **Head of Emergency Management Committee**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Voluntary Work
+- **Chairman of a Charity Association**
+- **Board Member at the Engineers Syndicate**
+- **Head of a Neighborhood Committee**
+
+## Languages
+- **Arabic (Native)**
+- **English (Intermediate)**
+
+## Hobbies
+- **Swimming**
